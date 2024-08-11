@@ -1,2 +1,4 @@
 # roleplayrepublic-paycheck
-Paycheck System for QBCore RP-Server
+Paycheck System Free for QBCore RP-Server
+Develop by b1ackKidsBoyzDev
+
